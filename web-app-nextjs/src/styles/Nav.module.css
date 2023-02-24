@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    height: 60px;
+  }
+  
+  nav a {
+    margin-right: 1rem;
+    color: #fff;
+  }
+  
+  nav a:hover {
+    color: #f1f1f1;
+  }
